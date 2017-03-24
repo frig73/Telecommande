@@ -1,0 +1,69 @@
+{
+		"wall": [{
+			"name": "my_wall1",
+			"rows": 2,
+			"cols": 3,
+			"screen": [{
+				"id": "s1",				
+				"row": 1,
+				"cols": 1,
+				"orientation": "landscape",
+				"type":"sc1",
+				"ipv4": "192.168.1.1"
+			}, {
+				"id": "s2",
+				"row": 1,
+				"cols": 2,
+				"orientation": "landscape",
+				"type":"sc1",
+				"ipv4": "192.168.1.2"
+			}, {
+				"id": "s3",
+				"row": 1,
+				"cols": 3,
+				"orientation": "landscape",
+				"type":"sc1",
+				"ipv4": "192.168.1.3"
+			}, {
+				"id": "s4",
+				"row": 2,
+				"cols": 1,
+				"orientation": "landscape",
+				"type":"sc1",
+				"ipv4": "192.168.1.4"
+			}, {
+				"id": "s5",
+				"row": 2,
+				"cols": 2,
+				"orientation": "landscape",
+				"type":"sc3",
+				"ipv4": "192.168.1.5"
+			}, {
+				"id": "s6",
+				"row": 2,
+				"cols": 3,
+				"orientation": "landscape",
+				"type":"sc3",
+				"ipv4": "192.168.1.6"
+			}]
+		}],
+
+		"user_profil": {
+			"workspace": "\\dir\\my_name\\",
+			"name": "my_name",
+			"scenario": []
+		},
+
+		"screen": [{
+			"ids": "sc1",
+			"tactile": 0,
+			"resolution": "1920x1080",
+			"orientation": "landscape"
+		}, {
+			"ids": "sc3",
+			"tactile": 0,
+			"resolution": "1920x1080",
+			"orientation": "landscape"
+		}]
+
+}

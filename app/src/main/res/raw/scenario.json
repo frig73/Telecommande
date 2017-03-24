@@ -1,0 +1,26 @@
+{
+	"scenario": {
+		"name": "scxc1",
+		"video": [{
+			"idv": "v1",
+			"file": "my_video.mp3",
+			"screens": ["s1", "s2", "s4", "s5"],
+			"distributed": 1,
+			"volume": 2,
+			"mute": 0,
+			"departure": "00.00",
+			"state": "play",
+			"loop": 1
+		}, {
+			"idv": "v2",
+			"file": "my_video3.mp3",
+			"screens": ["s3", "s6"],
+			"distributed": 0,
+			"volume": 2,
+			"mute": 0,
+			"departure": "00.00",
+			"state": "play",
+			"loop": 1
+		}]
+	}
+}
