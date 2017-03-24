@@ -9,7 +9,7 @@ ORGANISATION de travail:
  - Documentation, R´edaction du rapport
 
 MEFIDENE:
- - Architecture de application (  diagramme de classe,  conception de l’interfac etc).
+ - Architecture de application (  diagramme de classe,  conception de l’interfac).
  
 KYRYCHENKO:
  - Les spéciﬁcations et les prototypes de application. 
