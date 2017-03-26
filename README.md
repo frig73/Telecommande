@@ -14,6 +14,6 @@ MEFIDENE:
 KYRYCHENKO:
  - Les spéciﬁcations et les prototypes de application "wall-control". 
  - Architecture de application ( diagramme de classe,  conception de l’interfac etc).
- - Le développement d'une application réelle "Telecommande" (codage + interface).
+ - Le développement d'une application réelle "Telecommande" (codage + interface+tests).
 
 
